@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Jeong%20Hyunwoo&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Jeong%20Hyunwoo&fontSize=90" />
 
 <div>
 <h3> :alien: Tech Stack </h3>
