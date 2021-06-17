@@ -2,6 +2,7 @@
 
 <div>
 <h3> :alien: Tech Stack </h3>
+<h6> Techs that I`ve used at least once </h6>
 <h4> Front-end </h4>
 <p>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp
