@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Jeong%20Hyunwoo&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=black&height=200&section=header&text=Jeong%20Hyunwoo&fontSize=90&fontColor=eeeeee" />
 
 <div>
 <h3> :alien: Tech Stack </h3>
@@ -31,11 +31,12 @@
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/></a>&nbsp
 </p>
+</div>
 
 <br>
-<h3> :cow: ME </h3>
+<h3> :cow: Contacts </h3>
 <p>
-<a href="https://hyunwoojeong123.github.io/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>&nbsp
+<a href="https://hyunwoojeong123.github.io/"><img src="https://img.shields.io/badge/Tech blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>&nbsp
 <a href="malito:hw2621@daum.net"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
 </p>
-</div>
+
