@@ -37,6 +37,5 @@
 <h3> :cow: Contacts </h3>
 <p>
 <a href="https://hyunwoojeong123.github.io/"><img src="https://img.shields.io/badge/Tech blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>&nbsp
-<a href="malito:hw2621@daum.net"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
 </p>
 
