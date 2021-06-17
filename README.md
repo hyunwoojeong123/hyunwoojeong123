@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Jeong%20Hyunwoo&fontSize=90" />
 
-<div align="center">
+<div>
 <h3> :alien: Tech Stack </h3>
 <h4> Front-end </h4>
 <p>
